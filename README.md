@@ -42,8 +42,8 @@ docker run -p 5000:5000 -d admn-pred
 ```
 
 # Deployment
-**Platform: Heroku**  
-**Code Repo: GitHub**
+**Platform: [Heroku](https://admn-predixn.herokuapp.com/)**  
+**Code Repo: [GitHub](https://github.com/rohan-dhanraj/Admission_Prediction)**
 ## Pushing Code to GitHub
 ```bash
 git init
