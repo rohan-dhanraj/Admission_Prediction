@@ -18,6 +18,10 @@ From the [notebook](./notebook.ipynb) it is very much clear that, Linear Regress
 ```bash
 conda create --prefix ./env python=3.8 -y
 ```
+## Activating the virtual environment
+```bash
+conda activate ./env
+```
 ## Installing the Required Libraries
 ```bash
 pip install -r requirements.txt
