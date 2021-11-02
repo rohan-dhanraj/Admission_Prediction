@@ -40,6 +40,7 @@ docker image build -t admn-pred .
 ```bash
 docker run -p 5000:5000 -d admn-pred
 ```
+## [Docker Image](https://hub.docker.com/r/rohandhanraj/admission-prediction)
 
 # Deployment
 **Platform: [Heroku](https://admn-predixn.herokuapp.com/)**  
